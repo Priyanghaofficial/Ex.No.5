@@ -71,7 +71,6 @@
 16. *Repository Update*:
     - Update the GitHub repository README with properly formatted HTML tags
      
-      (e.g., <h1>, <h2>, <p1>, etc.).
      
 
 17. *Final Review*:
